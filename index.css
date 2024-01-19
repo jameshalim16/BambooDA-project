@@ -45,7 +45,6 @@
   font-size: var(--font-size-xl);
   line-height: 32px;
   font-weight: 500;
-  font-family: var(--font-noto-sans-jp);
 }
 .lifestyle-made-simple-parent {
   align-self: stretch;
@@ -179,7 +178,6 @@
   z-index: 2;
   text-align: center;
   font-size: var(--top-nav-text-size);
-  font-family: var(--font-noto-sans-jp);
 }
 .scroll-parent.animate {
   animation: 1s ease 0s 1 normal forwards slide-in-top;
@@ -197,7 +195,6 @@
   background-repeat: no-repeat;
   background-position: top;
   font-size: var(--font-size-29xl);
-  font-family: var(--font-satoshi-variable);
 }
 .vector-icon {
   position: relative;
@@ -300,7 +297,6 @@
   justify-content: center;
   padding: var(--padding-3xs) 0;
   gap: var(--gap-xl);
-  font-family: var(--font-satoshi-variable);
 }
 .bambooda-green-logo-1-icon {
   position: relative;
@@ -404,7 +400,6 @@
   align-items: flex-end;
   text-align: center;
   color: var(--color-gray-300);
-  font-family: var(--font-noto-sans-jp);
 }
 .header,
 .header-wrapper {
@@ -534,7 +529,6 @@
   gap: var(--gap-31xl);
   font-size: var(--font-size-lg);
   color: var(--color-gray-400);
-  font-family: var(--font-satoshi-variable);
 }
 .div11,
 .online-store {
@@ -558,7 +552,6 @@
   justify-content: flex-start;
   gap: var(--gap-xl);
   font-size: var(--font-size-lg);
-  font-family: var(--font-satoshi-variable);
 }
 .div12 {
   position: relative;
@@ -656,7 +649,6 @@
   justify-content: center;
   padding: var(--padding-5xs) var(--padding-31xl);
   text-align: center;
-  font-family: var(--font-noto-sans-jp);
 }
 .recruit-card,
 .recruit-text {
@@ -681,7 +673,6 @@
   background-repeat: no-repeat;
   background-position: top;
   color: var(--color-black);
-  font-family: var(--font-satoshi-variable);
 }
 .bd1-2-icon {
   position: relative;
